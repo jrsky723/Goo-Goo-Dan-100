@@ -1,4 +1,4 @@
-# Goo Goo Dan 100 (구구단 100)
+# Goo-Goo-Dan 100 (구구단 100)
 ### Simple multiplication game with logisim
 
 Please set the clock frequency to 64khz to proceed with the game. <br>
